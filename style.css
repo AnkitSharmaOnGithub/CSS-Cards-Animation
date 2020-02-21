@@ -67,7 +67,8 @@ html {
 .card__footer img {
   height: 10rem;
   margin-right: 6px;
-  width: 16rem;
+  width: 100%;
+  max-width: 100px;
 }
 .card--answer {
   color: #000;
